@@ -1,4 +1,4 @@
-type: GroundUnit
+type: legs
 weapon: {
 		name: "you have incurred my wrath. prepare to die."
 		bullet: "lancerLaser"
