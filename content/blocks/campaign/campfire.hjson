@@ -22,6 +22,6 @@ baseExplosiveness: 4
 research: kiln
 activeSound: fire
 activeSoundVolume: 1
-priority: turret
+targetPriority: turret
 expanded: true
 itemCapacity: 60
