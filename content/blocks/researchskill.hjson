@@ -2,7 +2,7 @@
 size: 3
 breakable: true
 update: true
-category: upgrade
+category: core
 requirements: [
   metaglass/340
   titanium/250
@@ -14,4 +14,4 @@ rotate: false
 solid: true
 rebuildable: false
 health: 3000
-research: dart-mech-pad
+research: ground-factory
