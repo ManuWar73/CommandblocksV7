@@ -2,7 +2,7 @@
 size: 3
 breakable: true
 update: true
-category: core
+category: effect
 requirements: [
   metaglass/340
   titanium/250
